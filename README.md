@@ -1,5 +1,5 @@
 ## Hi, I'm 
-  <img height="180em" src="https://i.giphy.com/media/YhqOIqAxz5qQo/giphy.gif"/>
+  <img height="200em" src="https://i.giphy.com/media/YhqOIqAxz5qQo/giphy.gif"/>
 
 <div align="center">
   <a href="https://github.com/iamaresxx">
