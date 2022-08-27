@@ -1,5 +1,5 @@
-## Hi, I'm 
-  <img height="200em" src="https://i.giphy.com/media/YhqOIqAxz5qQo/giphy.gif"/>
+# Hi👋, I'm...
+  <img height="260" width="900" src="https://www.name-doctor.com/nomi.png/2572.png"/>
 
 <div align="center">
   <a href="https://github.com/iamaresxx">
