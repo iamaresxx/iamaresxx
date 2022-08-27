@@ -1,12 +1,12 @@
 # Hi👋, I'm...
-  <img height="260" width="900" src="https://www.name-doctor.com/nomi.png/2572.png"/>
+  <img height="240" width="900" src="https://www.name-doctor.com/nomi.png/2572.png"/>
 
 <div align="center">
   <a href="https://github.com/iamaresxx">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="ares-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="ares-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="ares-pic" height="200" style="border-radius:50px;" src="https://github.com/iamaresxx/iamaresxx/blob/main/ares.png">
 </div>
   
   ##
