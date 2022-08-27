@@ -1,5 +1,5 @@
 # Hi👋, I'm...
-  <img height="230" width="870" src="https://www.name-doctor.com/nomi.png/2572.png"/>
+  <img height="210" width="870" src="https://www.name-doctor.com/nomi.png/2572.png"/>
 
 <div align="center">
   <a href="https://github.com/iamaresxx">
