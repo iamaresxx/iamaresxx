@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">~ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓅𝓇𝑜𝒻𝒾𝓁𝑒 ~</h1>
-  <img height="100" width="100" src=""/>
+  <img align="right" alt="ares-pic" height="200" style="border-radius:50px;" src="">
 </div>
   <h2> I am passionate about cybersecurity I would like to be a pentester, my name is: </h2>
   <img height="210" width="870" src="https://github.com/iamaresxx/iamaresxx/blob/main/aress.png"/>
