@@ -34,3 +34,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<h3 align="center"> 𝘐𝘧 𝘥𝘳𝘦𝘢𝘮𝘪𝘯𝘨 𝘪𝘴 𝘥𝘢𝘯𝘨𝘦𝘳𝘰𝘶𝘴 𝘵𝘩𝘦 𝘤𝘶𝘳𝘦 𝘧𝘰𝘳 𝘪𝘵 𝘪𝘴 𝘯𝘰𝘵 𝘵𝘰 𝘥𝘳𝘦𝘢𝘮 𝘭𝘦𝘴𝘴 𝘣𝘶𝘵 𝘵𝘰 𝘥𝘳𝘦𝘢𝘮 𝘮𝘰𝘳𝘦.</h3>
+
