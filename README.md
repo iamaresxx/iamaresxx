@@ -6,10 +6,9 @@
 </div>
   <h2>𝘏𝘪!! 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘢 𝘴𝘮𝘢𝘭𝘭 𝘴𝘱𝘢𝘤𝘦 𝘸𝘩𝘦𝘳𝘦 𝘐 𝘸𝘪𝘭𝘭 𝘴𝘩𝘢𝘳𝘦 𝘮𝘺 𝘱𝘢𝘴𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘤𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺, 𝘐 𝘢𝘮:</h2>
   <img height="210" width="870" src="https://github.com/iamaresxx/iamaresxx/blob/main/aress.png"/>
-
 <!--<div align="center">
   <a href="https://github.com/iamaresxx">
-</div> -->
+</iv> -->
   <p>𝘐 𝘢𝘮 𝘴𝘵𝘢𝘳𝘵𝘪𝘯𝘨 𝘵𝘰 𝘵𝘢𝘬𝘦 𝘮𝘺 𝘧𝘪𝘳𝘴𝘵 𝘴𝘵𝘦𝘱𝘴 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘢𝘮𝘢𝘻𝘪𝘯𝘨 𝘸𝘰𝘳𝘭𝘥, 𝘐 𝘢𝘮 𝘸𝘪𝘭𝘭𝘪𝘯𝘨 𝘵𝘰 𝘨𝘰 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘵𝘩𝘦 𝘯𝘦𝘤𝘦𝘴𝘴𝘢𝘳𝘺 𝘱𝘢𝘵𝘩 𝘵𝘰 𝘣𝘦 𝘢𝘣𝘭𝘦 𝘵𝘰 𝘣𝘦 𝘢 𝘨𝘳𝘦𝘢𝘵 𝘱𝘦𝘯𝘵𝘦𝘴𝘵𝘦𝘳 𝘰𝘳 𝘢𝘵 𝘭𝘦𝘢𝘴𝘵 𝘵𝘳𝘺.<br>
   𝘐𝘯 𝘵𝘩𝘪𝘴 𝘴𝘱𝘢𝘤𝘦 𝘐 𝘸𝘪𝘭𝘭 𝘣𝘦 𝘶𝘱𝘭𝘰𝘢𝘥𝘪𝘯𝘨 𝘮𝘺 𝘯𝘰𝘵𝘦𝘴 𝘢𝘯𝘥 𝘵𝘰𝘰𝘭𝘴 𝘵𝘩𝘢𝘵 𝘐 𝘤𝘢𝘯 𝘥𝘰 𝘢𝘴 𝘐 𝘮𝘢𝘴𝘵𝘦𝘳 𝘵𝘩𝘦 𝘭𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 𝘐 𝘢𝘮 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯.</p>  
 <div style="display: inline_block"><br>
@@ -30,10 +29,15 @@
  <a href="https://discord.gg/hack4u" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><br><br><br> 
   <!--<a href = "mailto:#null@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/#null" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
- 
-  ![Snake animation](https://github.com/iamaresxx/iamaresxx/blob/main/github-contribution-grid-snake.svg)
- 
 </div>
+ <div align="letf">
+  <a href="https://github.com/iamaresxx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamaresxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  ![Snake animation](https://github.com/iamaresxx/iamaresxx/blob/main/github-contribution-grid-snake.svg)
+    </div> 
+  
+<!--</d> -->
 
 <h3 align="center"> 𝘐𝘧 𝘥𝘳𝘦𝘢𝘮𝘪𝘯𝘨 𝘪𝘴 𝘥𝘢𝘯𝘨𝘦𝘳𝘰𝘶𝘴 𝘵𝘩𝘦 𝘤𝘶𝘳𝘦 𝘧𝘰𝘳 𝘪𝘵 𝘪𝘴 𝘯𝘰𝘵 𝘵𝘰 𝘥𝘳𝘦𝘢𝘮 𝘭𝘦𝘴𝘴 𝘣𝘶𝘵 𝘵𝘰 𝘥𝘳𝘦𝘢𝘮 𝘮𝘰𝘳𝘦.</h3>
 
